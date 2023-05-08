@@ -1,6 +1,6 @@
 # Plugin development
 
-It is possible to develop your own widget plugins, with only minor app development skills.
+It is possible to develop your own widget plugins with only minor app development skills.
 
 ## Plugin content
 
