@@ -10,7 +10,7 @@ A plugin consists of two separate HTML documents. These files must also contain 
 
 A sample widget HTML file can be found [here](widget-test.html). Noteworthy is that it contains a style tag with all the required CSS styling. It contains the default font Roboto from Google Fronts, which is referenced from the FONT_PATH. The FONT_PATH is resolved from the widget host, instead of loading it from Google servers. This is, among other reasons, due to data protection regulations.
 
-The sample file also contains of a header section, which is comprised of a title text and an icon. The icon is directly embedded into the svg-tag.
+The sample file also contains a header section, which is comprised of a title text and an icon. The icon is directly embedded into the svg-tag.
 
 The widget HTML sample also contains two examples of how to use the window.gugg object to access functions, which interact with the widget host. More information can be found in the [Widget host API](#widget-host-api).
 
